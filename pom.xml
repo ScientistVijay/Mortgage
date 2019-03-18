@@ -12,6 +12,7 @@
 	<artifactId>MockMortgage</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>MockMortgage</name>
+	<packaging>jar</packaging>
 	<description>ING Transaction Details</description>
 
 	<properties>
